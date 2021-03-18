@@ -28,7 +28,7 @@ public class SvgImport implements CommandLineRunner {
 	@Override
 	public void run(String... args) throws Exception {
 		List<String> codes = new ArrayList<>();
-		File file = new File("C:/Users/vishn/Downloads/1.svg");
+		File file = new File("C:/Users/vishn/Documents/indoor-navigation-svg/src/main/resources/2.svg");
 		if (file.exists()) {
 			Scanner scanner = new Scanner(file);
 			while (scanner.hasNext()) {
