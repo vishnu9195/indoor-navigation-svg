@@ -9,11 +9,11 @@
 		<version>2.3.9.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.upgrad</groupId>
-	<artifactId>Testing</artifactId>
+	<groupId>com.digitectura</groupId>
+	<artifactId>IndoorNavigation</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Testing</name>
-	<description>Home work 1</description>
+	<description>Indoor Navigation on svg</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
